@@ -5,6 +5,7 @@ use std::io::Write;
 
 fn generar_codigo_barra(archivo: &str, codigo: &str) {
     println!("Código proporcionado: {}", codigo);
+    println!("Código de produccion, de verdad!");
 
     // Crear el código de barras en formato Code 128
     let code128 = Code128::new(codigo).expect("Error al crear el código de barras.");
