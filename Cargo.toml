@@ -1,0 +1,9 @@
+[package]
+name = "barcode-code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+barcoders = { version = "0.9", features = ["image"] }
+image = "0.25.5"
+rand = "0.8.5"
