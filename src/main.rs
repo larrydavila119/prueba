@@ -5,6 +5,8 @@ use std::io::Write;
 
 fn generar_codigo_barra(archivo: &str, codigo: &str) {
     println!("Código proporcionado: {}", codigo);
+    println!("Código de produccion");
+    println!("prueba desde dev");
 
     println!("Se está realizando la pruebas");
 
