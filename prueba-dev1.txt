@@ -1,0 +1,4 @@
+Obligación 5: no se remite enlace de la tarea asociado al solicitudes de cambio "VISUALIZACIÓN ANEXOS DE RADICADOS - INC-2935", FIRMA que evidencien las pruebas unitarias para esta implementación con el respectivo formato de 
+pruebas firmado por el desarrollador. Obligación 7: no se remiten los enlaces devops de confirmación asociado al periodo agosto, acorde a lo que se ha indicado en reiteradas ocasiones en las sesiones de articulación se debe 
+hacer dentro del periodo y frecuentemente para evitar perdida de código. Obligación 11: no se remiten el devops de las reuniones que no corresponden a proyectos asignados, se registran en el proyecto devops "Gestion OTI" como 
+se ha indicado en reiteradas ocasiones en las sesiones de articulación
